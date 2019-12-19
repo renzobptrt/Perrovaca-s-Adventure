@@ -34,7 +34,17 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // s = v * t;
+       
+        //Cambios en la animacion
+        animator.SetFloat(horizontal, Input.GetAxisRaw(horizontal));
+        animator.SetFloat(vertical, Input.GetAxisRaw(vertical));
+        animator.SetBool(walkingState,walking);
+        animator.SetFloat(lastHorizontal, lastMovement.x);
+        animator.SetFloat(lastVertical, lastMovement.y);
+    }
+
+    void FixedUpdate(){
+         // s = v * t;
         walking = false;
 
         if(Mathf.Abs(Input.GetAxisRaw(horizontal)) > 0.5f){
@@ -78,11 +88,5 @@ public class PlayerController : MonoBehaviour
             playerRigidbody.velocity = Vector2.zero;
         }
 
-        //Cambios en la animacion
-        animator.SetFloat(horizontal, Input.GetAxisRaw(horizontal));
-        animator.SetFloat(vertical, Input.GetAxisRaw(vertical));
-        animator.SetBool(walkingState,walking);
-        animator.SetFloat(lastHorizontal, lastMovement.x);
-        animator.SetFloat(lastVertical, lastMovement.y);
     }
 }
