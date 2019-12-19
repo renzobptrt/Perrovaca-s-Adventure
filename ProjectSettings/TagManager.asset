@@ -47,11 +47,11 @@ TagManager:
   - name: Midleground
     uniqueID: 1965279693
     locked: 0
-  - name: Buildground
-    uniqueID: 2640195105
-    locked: 0
   - name: Foreground
     uniqueID: 645547161
+    locked: 0
+  - name: Buildground
+    uniqueID: 2640195105
     locked: 0
   - name: Player
     uniqueID: 3373968685
