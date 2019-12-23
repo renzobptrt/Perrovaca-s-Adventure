@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public float speed = 4.0f;
     private bool walking = false;
     public Vector2 lastMovement = Vector2.zero;
+    public static bool playerCreated;
 
     //Comportamiento
     private const string horizontal = "Horizontal";
@@ -15,6 +16,7 @@ public class PlayerController : MonoBehaviour
     private const string lastHorizontal = "LastHorizontal";
     private const string lastVertical = "LastVertical";
     private const string walkingState = "Walking";
+    public string nextPlaceName; //Lugar donde tiene que aparecer
 
     //Componentes externos
     private Animator animator;
@@ -28,7 +30,14 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if(!playerCreated){
+            playerCreated = true;
+            //Evita cargar el sistema
+            DontDestroyOnLoad(this.transform.gameObject);
+        }
+        else{
+            Destroy(gameObject);
+        }
     }
 
     // Update is called once per frame
