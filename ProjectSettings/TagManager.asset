@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -50,9 +51,12 @@ TagManager:
   - name: Foreground
     uniqueID: 645547161
     locked: 0
-  - name: Buildground
-    uniqueID: 2640195105
-    locked: 0
   - name: Player
     uniqueID: 3373968685
+    locked: 0
+  - name: Enemy
+    uniqueID: 3172088025
+    locked: 0
+  - name: Buildground
+    uniqueID: 2640195105
     locked: 0
