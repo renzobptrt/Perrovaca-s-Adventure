@@ -7,12 +7,12 @@ public class DontDestroyOnLoad : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if(!PlayerController.playerCreated){
+        if(PlayerController.playerCreated){
             DontDestroyOnLoad(this.transform.gameObject);
         }
-        else{
+        /*else{
             Destroy(gameObject);
-        }
+        }*/
     }
 
 }
