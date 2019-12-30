@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GoToCastleScene.unity
     guid: f8282977107f58d47b6327ce055f009f
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 7e53a8da8571d7d41a797609940b65f4
+  - enabled: 0
+    path: Assets/Scenes/EnterCastle.unity
+    guid: 8dfabfb35793705428e71cd8e83b04e9
   m_configObjects: {}
