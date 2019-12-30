@@ -23,7 +23,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOverScene.unity
     guid: 7e53a8da8571d7d41a797609940b65f4
-  - enabled: 0
-    path: Assets/Scenes/EnterCastle.unity
-    guid: 8dfabfb35793705428e71cd8e83b04e9
+  - enabled: 1
+    path: Assets/Scenes/Castle/EnterCastle.unity
+    guid: 0ae3cda9acdb44f41a4f7dba9388898f
+  - enabled: 1
+    path: Assets/Scenes/Castle/EnterCastle_SecondFloor.unity
+    guid: 7b15ee51a77804248b53a92d61b0f8bf
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerLeft/TowerLeft_FirstFloor.unity
+    guid: 861dd2d716d59ab4481af0baf8deb0f0
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerLeft/TowerLeft_SecondFloor.unity
+    guid: dbfe5050f1a6a2f4882de68ab584e053
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerLeft/TowerLeft_ThirdFloor.unity
+    guid: dbc534a8fe23c1d498a34e333f5f4671
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerRight/TowerRight_FirstFloor.unity
+    guid: 9cdba42498ef17645be8bb31ec7903e9
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerRight/TowerRight_SecondFloor.unity
+    guid: 01e4ad15ec6d7774d80ea89bc9d21106
+  - enabled: 1
+    path: Assets/Scenes/Castle/TowerRight/TowerRight_ThirdFloor.unity
+    guid: 788a543a612c38543b809c3f0fee891f
+  - enabled: 1
+    path: Assets/Scenes/Castle/FinalCastle_BossFloor.unity
+    guid: 6adcd73491d569f4fb30c0cb75629ccb
   m_configObjects: {}
