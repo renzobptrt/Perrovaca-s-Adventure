@@ -1,0 +1,3355 @@
+fileFormatVersion: 2
+guid: 33dd1eab5bb7df24685f03e074c49e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4479347864712263611
+    second: SeekPng.com_princess-daisy-png_1485457_0
+  - first:
+      213: -2942180908963358027
+    second: SeekPng.com_princess-daisy-png_1485457_1
+  - first:
+      213: -3547142157338792663
+    second: SeekPng.com_princess-daisy-png_1485457_2
+  - first:
+      213: 201630841528426072
+    second: SeekPng.com_princess-daisy-png_1485457_3
+  - first:
+      213: -2415246569965420004
+    second: SeekPng.com_princess-daisy-png_1485457_4
+  - first:
+      213: 1995460086849578928
+    second: SeekPng.com_princess-daisy-png_1485457_5
+  - first:
+      213: -818203902636900548
+    second: SeekPng.com_princess-daisy-png_1485457_6
+  - first:
+      213: -4312468218090798853
+    second: SeekPng.com_princess-daisy-png_1485457_7
+  - first:
+      213: -7670603067601333072
+    second: SeekPng.com_princess-daisy-png_1485457_8
+  - first:
+      213: -7517713969245988501
+    second: SeekPng.com_princess-daisy-png_1485457_9
+  - first:
+      213: -831497663762895315
+    second: SeekPng.com_princess-daisy-png_1485457_10
+  - first:
+      213: 1505437886068217087
+    second: SeekPng.com_princess-daisy-png_1485457_11
+  - first:
+      213: 1379853306007069111
+    second: SeekPng.com_princess-daisy-png_1485457_12
+  - first:
+      213: 7018412453122190904
+    second: SeekPng.com_princess-daisy-png_1485457_13
+  - first:
+      213: 6201621434689236586
+    second: SeekPng.com_princess-daisy-png_1485457_14
+  - first:
+      213: 2269604558064320594
+    second: SeekPng.com_princess-daisy-png_1485457_15
+  - first:
+      213: -4762729142884527028
+    second: SeekPng.com_princess-daisy-png_1485457_16
+  - first:
+      213: 6042730414095919569
+    second: SeekPng.com_princess-daisy-png_1485457_17
+  - first:
+      213: 4533063571030403133
+    second: SeekPng.com_princess-daisy-png_1485457_18
+  - first:
+      213: -714552342879114432
+    second: SeekPng.com_princess-daisy-png_1485457_19
+  - first:
+      213: -901975481818262720
+    second: SeekPng.com_princess-daisy-png_1485457_20
+  - first:
+      213: 3472670512027499158
+    second: SeekPng.com_princess-daisy-png_1485457_21
+  - first:
+      213: 1313098971251970760
+    second: SeekPng.com_princess-daisy-png_1485457_22
+  - first:
+      213: -4681897810215304716
+    second: SeekPng.com_princess-daisy-png_1485457_23
+  - first:
+      213: -2391752624978704533
+    second: SeekPng.com_princess-daisy-png_1485457_24
+  - first:
+      213: 1818041592054912504
+    second: SeekPng.com_princess-daisy-png_1485457_25
+  - first:
+      213: 8373618308565434569
+    second: SeekPng.com_princess-daisy-png_1485457_26
+  - first:
+      213: 9022030418732635718
+    second: SeekPng.com_princess-daisy-png_1485457_27
+  - first:
+      213: 3297553280779098034
+    second: SeekPng.com_princess-daisy-png_1485457_28
+  - first:
+      213: 7817073384954291482
+    second: SeekPng.com_princess-daisy-png_1485457_29
+  - first:
+      213: 4365123749933635784
+    second: SeekPng.com_princess-daisy-png_1485457_30
+  - first:
+      213: 8087320717452076492
+    second: SeekPng.com_princess-daisy-png_1485457_31
+  - first:
+      213: -6117899015066735409
+    second: SeekPng.com_princess-daisy-png_1485457_32
+  - first:
+      213: 6479159776448617587
+    second: SeekPng.com_princess-daisy-png_1485457_33
+  - first:
+      213: -4890440639370353135
+    second: SeekPng.com_princess-daisy-png_1485457_34
+  - first:
+      213: -709520026382361936
+    second: SeekPng.com_princess-daisy-png_1485457_35
+  - first:
+      213: -2172503429634885942
+    second: SeekPng.com_princess-daisy-png_1485457_36
+  - first:
+      213: -4206737642343606695
+    second: SeekPng.com_princess-daisy-png_1485457_37
+  - first:
+      213: -4635558534183337974
+    second: SeekPng.com_princess-daisy-png_1485457_38
+  - first:
+      213: -6483739672235954865
+    second: SeekPng.com_princess-daisy-png_1485457_39
+  - first:
+      213: -8353656800218350249
+    second: SeekPng.com_princess-daisy-png_1485457_40
+  - first:
+      213: 4408874678328904886
+    second: SeekPng.com_princess-daisy-png_1485457_41
+  - first:
+      213: -680479929474525273
+    second: SeekPng.com_princess-daisy-png_1485457_42
+  - first:
+      213: 9099583902883092921
+    second: SeekPng.com_princess-daisy-png_1485457_43
+  - first:
+      213: 678574460185150440
+    second: SeekPng.com_princess-daisy-png_1485457_44
+  - first:
+      213: -8921741724227549883
+    second: SeekPng.com_princess-daisy-png_1485457_45
+  - first:
+      213: -2787178307238166306
+    second: SeekPng.com_princess-daisy-png_1485457_46
+  - first:
+      213: -7560460883813681043
+    second: SeekPng.com_princess-daisy-png_1485457_47
+  - first:
+      213: 6264914257156239042
+    second: SeekPng.com_princess-daisy-png_1485457_48
+  - first:
+      213: 8615926682186259678
+    second: SeekPng.com_princess-daisy-png_1485457_49
+  - first:
+      213: 657394706170002951
+    second: SeekPng.com_princess-daisy-png_1485457_50
+  - first:
+      213: -6820643671989757857
+    second: SeekPng.com_princess-daisy-png_1485457_51
+  - first:
+      213: 6238504898396906284
+    second: SeekPng.com_princess-daisy-png_1485457_52
+  - first:
+      213: 1735978247013182597
+    second: SeekPng.com_princess-daisy-png_1485457_53
+  - first:
+      213: -8857128561749776987
+    second: SeekPng.com_princess-daisy-png_1485457_54
+  - first:
+      213: 8571725612398790615
+    second: SeekPng.com_princess-daisy-png_1485457_55
+  - first:
+      213: 7790485464002474765
+    second: SeekPng.com_princess-daisy-png_1485457_56
+  - first:
+      213: -5187305848781236297
+    second: SeekPng.com_princess-daisy-png_1485457_57
+  - first:
+      213: -1792549176595267860
+    second: SeekPng.com_princess-daisy-png_1485457_58
+  - first:
+      213: -5627621113389591962
+    second: SeekPng.com_princess-daisy-png_1485457_59
+  - first:
+      213: 4061082480545106703
+    second: SeekPng.com_princess-daisy-png_1485457_60
+  - first:
+      213: 2361976309697153670
+    second: SeekPng.com_princess-daisy-png_1485457_61
+  - first:
+      213: 568690552178978388
+    second: SeekPng.com_princess-daisy-png_1485457_62
+  - first:
+      213: 4555152027798847552
+    second: SeekPng.com_princess-daisy-png_1485457_63
+  - first:
+      213: -5851552623464719570
+    second: SeekPng.com_princess-daisy-png_1485457_64
+  - first:
+      213: -6262809687001059572
+    second: SeekPng.com_princess-daisy-png_1485457_65
+  - first:
+      213: -7971403820847110676
+    second: SeekPng.com_princess-daisy-png_1485457_66
+  - first:
+      213: 1735844907410706994
+    second: SeekPng.com_princess-daisy-png_1485457_67
+  - first:
+      213: 4303053834241024470
+    second: SeekPng.com_princess-daisy-png_1485457_68
+  - first:
+      213: -4823968269991102064
+    second: SeekPng.com_princess-daisy-png_1485457_69
+  - first:
+      213: 872116938294747124
+    second: SeekPng.com_princess-daisy-png_1485457_70
+  - first:
+      213: 4174530598124974695
+    second: SeekPng.com_princess-daisy-png_1485457_71
+  - first:
+      213: -5607427550277977820
+    second: SeekPng.com_princess-daisy-png_1485457_72
+  - first:
+      213: 5364098871994639609
+    second: SeekPng.com_princess-daisy-png_1485457_73
+  - first:
+      213: -1666473541534230152
+    second: SeekPng.com_princess-daisy-png_1485457_74
+  - first:
+      213: 4082052087208563818
+    second: SeekPng.com_princess-daisy-png_1485457_75
+  - first:
+      213: -7417017578803784731
+    second: SeekPng.com_princess-daisy-png_1485457_76
+  - first:
+      213: 3230620660828095885
+    second: SeekPng.com_princess-daisy-png_1485457_77
+  - first:
+      213: 3930176347362118057
+    second: SeekPng.com_princess-daisy-png_1485457_78
+  - first:
+      213: -2123876245944444303
+    second: SeekPng.com_princess-daisy-png_1485457_79
+  - first:
+      213: -8401872934951450454
+    second: SeekPng.com_princess-daisy-png_1485457_80
+  - first:
+      213: -5555230922864947806
+    second: SeekPng.com_princess-daisy-png_1485457_81
+  - first:
+      213: 176116383583988232
+    second: SeekPng.com_princess-daisy-png_1485457_82
+  - first:
+      213: 2702000831649563446
+    second: SeekPng.com_princess-daisy-png_1485457_83
+  - first:
+      213: -2816492837483615228
+    second: SeekPng.com_princess-daisy-png_1485457_84
+  - first:
+      213: -5087707262509206273
+    second: SeekPng.com_princess-daisy-png_1485457_85
+  - first:
+      213: -1220550987656570396
+    second: SeekPng.com_princess-daisy-png_1485457_86
+  - first:
+      213: -5861856992077297612
+    second: SeekPng.com_princess-daisy-png_1485457_87
+  - first:
+      213: 2726135987488682832
+    second: SeekPng.com_princess-daisy-png_1485457_88
+  - first:
+      213: -8886838708284833970
+    second: SeekPng.com_princess-daisy-png_1485457_89
+  - first:
+      213: 1930946703805703443
+    second: SeekPng.com_princess-daisy-png_1485457_90
+  - first:
+      213: -3332635371491967931
+    second: SeekPng.com_princess-daisy-png_1485457_91
+  - first:
+      213: -4433216737626502365
+    second: SeekPng.com_princess-daisy-png_1485457_92
+  - first:
+      213: 8885232000180306097
+    second: SeekPng.com_princess-daisy-png_1485457_93
+  - first:
+      213: 3276634135682847974
+    second: SeekPng.com_princess-daisy-png_1485457_94
+  - first:
+      213: 5577180102457851600
+    second: SeekPng.com_princess-daisy-png_1485457_95
+  - first:
+      213: -9114136070169450147
+    second: SeekPng.com_princess-daisy-png_1485457_96
+  - first:
+      213: 1850761187742834107
+    second: SeekPng.com_princess-daisy-png_1485457_97
+  - first:
+      213: 7419702221904997301
+    second: SeekPng.com_princess-daisy-png_1485457_98
+  - first:
+      213: 7283641331880722859
+    second: SeekPng.com_princess-daisy-png_1485457_99
+  - first:
+      213: 6274295832601734179
+    second: SeekPng.com_princess-daisy-png_1485457_100
+  - first:
+      213: -6952197469074039367
+    second: SeekPng.com_princess-daisy-png_1485457_101
+  - first:
+      213: -5683946903377481353
+    second: SeekPng.com_princess-daisy-png_1485457_102
+  - first:
+      213: -7242962065980455787
+    second: SeekPng.com_princess-daisy-png_1485457_103
+  - first:
+      213: 7513562380088763112
+    second: SeekPng.com_princess-daisy-png_1485457_104
+  - first:
+      213: 6755951944281425860
+    second: SeekPng.com_princess-daisy-png_1485457_105
+  - first:
+      213: -8108139035446327884
+    second: SeekPng.com_princess-daisy-png_1485457_106
+  - first:
+      213: 4907096476297735787
+    second: SeekPng.com_princess-daisy-png_1485457_107
+  - first:
+      213: -5374361471906911848
+    second: SeekPng.com_princess-daisy-png_1485457_108
+  - first:
+      213: -1214096170814142946
+    second: SeekPng.com_princess-daisy-png_1485457_109
+  - first:
+      213: -7138946263130668023
+    second: SeekPng.com_princess-daisy-png_1485457_110
+  - first:
+      213: 4066674810589466927
+    second: SeekPng.com_princess-daisy-png_1485457_111
+  - first:
+      213: -3266091621529492264
+    second: SeekPng.com_princess-daisy-png_1485457_112
+  - first:
+      213: 8164818493680445254
+    second: SeekPng.com_princess-daisy-png_1485457_113
+  - first:
+      213: 8717197899843084455
+    second: SeekPng.com_princess-daisy-png_1485457_114
+  - first:
+      213: 6956555500727952496
+    second: SeekPng.com_princess-daisy-png_1485457_115
+  - first:
+      213: 8438959234590811461
+    second: SeekPng.com_princess-daisy-png_1485457_116
+  - first:
+      213: -3466652573939273729
+    second: SeekPng.com_princess-daisy-png_1485457_117
+  - first:
+      213: -6945766308924594652
+    second: SeekPng.com_princess-daisy-png_1485457_118
+  - first:
+      213: 908863302814397674
+    second: SeekPng.com_princess-daisy-png_1485457_119
+  - first:
+      213: -1999071295711307606
+    second: SeekPng.com_princess-daisy-png_1485457_120
+  - first:
+      213: -7442289752426196056
+    second: SeekPng.com_princess-daisy-png_1485457_121
+  - first:
+      213: -3103353070798461792
+    second: SeekPng.com_princess-daisy-png_1485457_122
+  - first:
+      213: -8998272758455101004
+    second: SeekPng.com_princess-daisy-png_1485457_123
+  - first:
+      213: -7361369078791805390
+    second: SeekPng.com_princess-daisy-png_1485457_124
+  - first:
+      213: -6359623718082201722
+    second: SeekPng.com_princess-daisy-png_1485457_125
+  - first:
+      213: 4605143191478285443
+    second: SeekPng.com_princess-daisy-png_1485457_126
+  - first:
+      213: 7795130587262709266
+    second: SeekPng.com_princess-daisy-png_1485457_127
+  - first:
+      213: 6150728748543389969
+    second: SeekPng.com_princess-daisy-png_1485457_128
+  - first:
+      213: -8023426866895702437
+    second: SeekPng.com_princess-daisy-png_1485457_129
+  - first:
+      213: 7364329730934145612
+    second: SeekPng.com_princess-daisy-png_1485457_130
+  - first:
+      213: -61741431573241094
+    second: SeekPng.com_princess-daisy-png_1485457_131
+  - first:
+      213: 5967401146613744499
+    second: SeekPng.com_princess-daisy-png_1485457_132
+  - first:
+      213: 6711194146363617001
+    second: SeekPng.com_princess-daisy-png_1485457_133
+  - first:
+      213: -6364044380092587059
+    second: SeekPng.com_princess-daisy-png_1485457_134
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868fea58b1a253243b1481ae098e8a3c
+      internalID: 4479347864712263611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f493ed2183ab4d93fd38131d5dc60
+      internalID: -2942180908963358027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2b1ced106ea49997e6752b068608
+      internalID: -3547142157338792663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88014add0a532e348b280b26f0fc1c0a
+      internalID: 201630841528426072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 353
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d45432c0adeb43a8c7af928cf0048
+      internalID: -2415246569965420004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 353
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaea24c65868914ca38a1d0ba6b3876
+      internalID: 1995460086849578928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7103a93c33e74ebc5a74518f8c444
+      internalID: -818203902636900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 352
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2571768bd3474fb266cf37ec3c3e7
+      internalID: -4312468218090798853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 350
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03b9c789051da4fb5b7e5eff13eef3
+      internalID: -7670603067601333072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 350
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863b52d7bc7c0b4ba4ff7d2c2ef8da2
+      internalID: -7517713969245988501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 334
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4b97f8a8b86344b8d5d707c6c1411
+      internalID: -831497663762895315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 331
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d192f8e2cce2740a35be4fcefce90d
+      internalID: 1505437886068217087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 334
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc610dddf5c56041aec04cf735b4cc4
+      internalID: 1379853306007069111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 334
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be8e8bd4a016d4f9450d5b73b3a49e
+      internalID: 7018412453122190904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 334
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba161e07c2276f04688e0181678223d8
+      internalID: 6201621434689236586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 334
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e313fedff5dc4188b0b10fd89e07c
+      internalID: 2269604558064320594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 334
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d01120f8c4b943b66b43632a02a65
+      internalID: -4762729142884527028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 334
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5959fe83c673d4899d27440cb8624f
+      internalID: 6042730414095919569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 281
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584f18af54931547876d0515e62036c
+      internalID: 4533063571030403133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 279
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057a1662ddd3e041ba5081656c518f8
+      internalID: -714552342879114432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 277
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd06a06a55dd045835ea8f55bdbc86
+      internalID: -901975481818262720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 322
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7e101a6357f04b9f2ead781059488
+      internalID: 3472670512027499158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58586ab1bc26b048927141408d982d7
+      internalID: 1313098971251970760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 322
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec8a30a3ac5af4db6a85c40f4d0d95
+      internalID: -4681897810215304716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 322
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294dc54e05a9f3d44946b77f7642d744
+      internalID: -2391752624978704533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 322
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da41e9c8f2b8684d9ad34f6b8382244
+      internalID: 1818041592054912504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 319
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3550c00f8dfe4ea18ae02d12ed49a
+      internalID: 8373618308565434569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 322
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f95b5e2b37813449f869d121e768c4
+      internalID: 9022030418732635718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 319
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971bcd38484d434b97caf8f422a3561
+      internalID: 3297553280779098034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a12db25edb86b43a7cfbfc1dcf8c1e
+      internalID: 7817073384954291482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217938ea7fda21d489f0d4024b4bb2ff
+      internalID: 4365123749933635784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 277
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8bc7c9247a91a46b8cd70311b92d7c
+      internalID: 8087320717452076492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 300
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986941c0e9ad6e43850017318fd5196
+      internalID: -6117899015066735409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 278
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15568de9ab724b444a637fbd19a3f3b1
+      internalID: 6479159776448617587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_34
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 281
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f47e19d9163544b7651e5d04af51b
+      internalID: -4890440639370353135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 278
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb8d33823b08e4aa3802a71fad6f99
+      internalID: -709520026382361936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 277
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1def65f6b1278f4e9e73031cf4eb546
+      internalID: -2172503429634885942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 277
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd2c0e0edeead4596f7d6dab5afe9c
+      internalID: -4206737642343606695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 276
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20b28314902544c9db6bc41f01e3f5
+      internalID: -4635558534183337974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029505bff93b2244950fca48b511482
+      internalID: -6483739672235954865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56aef03aaede7545a54bee8097c5a3a
+      internalID: -8353656800218350249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5594c02a7737e743ad1d9ffdad93881
+      internalID: 4408874678328904886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897dd3ac3ab120f438ee89aea85a81ca
+      internalID: -680479929474525273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f296fe9fa10144867456cf5feff6e
+      internalID: 9099583902883092921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668a74831df917348942c28a1a089ad7
+      internalID: 678574460185150440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f1ad507ddb1f41b6dadd33bd2740a
+      internalID: -8921741724227549883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 221
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e42931aeb30e34c8b99b4d822f4c00
+      internalID: -2787178307238166306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee25b4322dd304b84e7259e642f9e6
+      internalID: -7560460883813681043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_48
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd681cb702fa8894eb71bd2328d539b0
+      internalID: 6264914257156239042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f6c4be72fc1643823bce01795e036
+      internalID: 8615926682186259678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d846118b693f3c4492e44cfcfcb89f8
+      internalID: 657394706170002951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_51
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55224ea69bf912c4d82062bcd93617d9
+      internalID: -6820643671989757857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 221
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5936614f2f141704c9e181f90816bb15
+      internalID: 6238504898396906284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_53
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 220
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875d0cae95e66141b798fde6aada890
+      internalID: 1735978247013182597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_54
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 220
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0c116eced2dd44b133e33c9ee0054
+      internalID: -8857128561749776987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 220
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017b8c40a74852479cc1ce22d7f9265
+      internalID: 8571725612398790615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_56
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 220
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ce1f172a9155f4eadf29e3dea1daf5
+      internalID: 7790485464002474765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_57
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 220
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003830ab0991fc84cb8eac4c9d86d38e
+      internalID: -5187305848781236297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_58
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 220
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9692b024a252428cbc3171bd52b75
+      internalID: -1792549176595267860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9aed1fc91e85a4c986989a7949e7fa
+      internalID: -5627621113389591962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ebe3f2ba288e2419e0efaf466774bb
+      internalID: 4061082480545106703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c38af277d7de245b5b37d594a7115c
+      internalID: 2361976309697153670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc2df8c56919a4facef888239a5df6
+      internalID: 568690552178978388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c8495ae9577194db498d25e66ed350
+      internalID: 4555152027798847552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_64
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea5d01a22c2b840adf95c690966f62
+      internalID: -5851552623464719570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720ea22925ce144fadb4244d04727b0
+      internalID: -6262809687001059572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 166
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b617c937615fa24480d5126e45953d5
+      internalID: -7971403820847110676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 166
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a651308bc92f4095d2e870a7e0dfe
+      internalID: 1735844907410706994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 167
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98c733f8412fe4c851190168bdc329
+      internalID: 4303053834241024470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 166
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1639361a47caa41935075a42e42f76
+      internalID: -4823968269991102064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_70
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 166
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d98cd1edc0bd47a19709f5a633335
+      internalID: 872116938294747124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_71
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6212d33f25e9d4db57a7af8e9c8305
+      internalID: 4174530598124974695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_72
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4c4c19c68ff945bab010b839c3bb4
+      internalID: -5607427550277977820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_73
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978e2e6323d0a142a27f70710af62e2
+      internalID: 5364098871994639609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_74
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929fbb7018c42104891044118726ca4b
+      internalID: -1666473541534230152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_75
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275006bcb42be724796b481d0959b90d
+      internalID: 4082052087208563818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_76
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b036dab7751494581e9292cb97a9f5
+      internalID: -7417017578803784731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6d27f645a04fa42868392ff306e47a
+      internalID: 3230620660828095885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_78
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3d25f874e06046a322d819bd14567
+      internalID: 3930176347362118057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_79
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954b9f24a8579b4680b2944d2904787
+      internalID: -2123876245944444303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_80
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e56ebc7dac8af4f988f5a3634790ca
+      internalID: -8401872934951450454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_81
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c43388e1a67a14abcb058f37273aab
+      internalID: -5555230922864947806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 166
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2870b90ec1e9cf489449995f64f910b
+      internalID: 176116383583988232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_83
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f5749b5aa93943a879dc7385182a0
+      internalID: 2702000831649563446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_84
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22005780bdb45764386ed6110e53ff57
+      internalID: -2816492837483615228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ece2fabd3638c4eba9ad6591d177a4
+      internalID: -5087707262509206273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203bfb03615b9e94f9b8b46cea70e049
+      internalID: -1220550987656570396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c596fcbcce9986438580f0c98c7b72a
+      internalID: -5861856992077297612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c140197e66081b4b892af41b6baa9f2
+      internalID: 2726135987488682832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882adc1d8b10a649a6a8142f10e781d
+      internalID: -8886838708284833970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_90
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 113
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76480c94a546eeb4fa743ddbafcffc77
+      internalID: 1930946703805703443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_91
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0d26bc7f34ef41b495815463201d3
+      internalID: -3332635371491967931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 114
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6af7bd4361094085d5f3083e55c27
+      internalID: -4433216737626502365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 113
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf6e689a71bdd4f9ca8c9a9298283a
+      internalID: 8885232000180306097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aae9be0e9cda84abe2232bf0bb57e3
+      internalID: 3276634135682847974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c829249507dbf94589b8632d0e55f3e
+      internalID: 5577180102457851600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_96
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7f88bf58accc4794ca828f133dde4
+      internalID: -9114136070169450147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_97
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5d97a04b90f1d4385607d75eff4d31
+      internalID: 1850761187742834107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_98
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a75418e18f74044a5794ab9c9e462e
+      internalID: 7419702221904997301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_99
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddb2de272c0e74d86e106f272d446e
+      internalID: 7283641331880722859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_100
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 113
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3660dba9f0584c742952cbaed3adf9a3
+      internalID: 6274295832601734179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_101
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4567b5b3eb1543a81a21834fed95e
+      internalID: -6952197469074039367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_102
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616f36cdba531d44bc4d9abc2ae2459
+      internalID: -5683946903377481353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_103
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb64154481c29c45b157ed40526a489
+      internalID: -7242962065980455787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_104
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b481797bd1bbe4db00f7c38b3f8b50
+      internalID: 7513562380088763112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_105
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9741f61a4fe814ab53e1ae85e81032
+      internalID: 6755951944281425860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_106
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560d0020a50ee3418ced957d6d6413e
+      internalID: -8108139035446327884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d15bb20054d5504ca71bccb1fae66b5
+      internalID: 4907096476297735787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_108
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7868ee7e6bffe468e5df259b9f6bc2
+      internalID: -5374361471906911848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_109
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44272cbf89e0a7a4d831277795db20ff
+      internalID: -1214096170814142946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ac876fc69c92469b056a5c148a545
+      internalID: -7138946263130668023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_111
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6b628807f97343932208b98b8d3ae
+      internalID: 4066674810589466927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_112
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033dc36c2dc42884a9feb268efdc4806
+      internalID: -3266091621529492264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_113
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c41f8aa801df428279a18ff84b3aa
+      internalID: 8164818493680445254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f1594850e96a4aa7960b46145b95b
+      internalID: 8717197899843084455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_115
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a956e2b4a50b3449acdc1eb97793a5
+      internalID: 6956555500727952496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_116
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb873f12754c8be42a2e3fa097a1df70
+      internalID: 8438959234590811461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_117
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dedd3654223be40942dc2a4807343b
+      internalID: -3466652573939273729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_118
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0fa0862399ee469264d2c05b72073
+      internalID: -6945766308924594652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e3304dcedccb478419f00a7cb7b2f
+      internalID: 908863302814397674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecec963de6bbb4286a98708d34043a
+      internalID: -1999071295711307606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_121
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27758b2086f3350449bc95f6bfd229e6
+      internalID: -7442289752426196056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_122
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 55
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee39112ede49446a0eb8ad3321834a
+      internalID: -3103353070798461792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_123
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 679
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb00266d1d295d34eb8200ddad5c46cb
+      internalID: -8998272758455101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_124
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd596da464a94ee49ac27a2fe584278e
+      internalID: -7361369078791805390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_125
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0462ec9e96d42419f12396b31e315f
+      internalID: -6359623718082201722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_126
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0770c07bf17941a5a2ef6a16f175c
+      internalID: 4605143191478285443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0c9a66ffa20243800a86dcf92a450
+      internalID: 7795130587262709266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_128
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6ef1c63bfc41e40987c3e5abff1d74
+      internalID: 6150728748543389969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_129
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17639c91473f38b4da4520ab3aec0773
+      internalID: -8023426866895702437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b082a5c7cd6cc824da3d96ee89e3694b
+      internalID: 7364329730934145612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134162fdd840ed4196d0363be64e5f1
+      internalID: -61741431573241094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_132
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc8aac9317e4040b786806d541c366
+      internalID: 5967401146613744499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_133
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68583135a440cc4b8768eaa834329f1
+      internalID: 6711194146363617001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_princess-daisy-png_1485457_134
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef69a7f74c58e45aa7a747b974073d
+      internalID: -6364044380092587059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
