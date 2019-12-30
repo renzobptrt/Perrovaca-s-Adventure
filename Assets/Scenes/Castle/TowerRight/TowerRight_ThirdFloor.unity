@@ -166,7 +166,7 @@ Transform:
   - {fileID: 2085457011}
   - {fileID: 1961060247}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1024779624
 PrefabInstance:
@@ -218,7 +218,7 @@ PrefabInstance:
     - target: {fileID: 5823595299789123015, guid: cd297994a6941d047bdffabdd3f14e68,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5823595299789123015, guid: cd297994a6941d047bdffabdd3f14e68,
         type: 3}
@@ -254,6 +254,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 0.35328293
+      objectReference: {fileID: 0}
+    - target: {fileID: 7569231638768854625, guid: cd297994a6941d047bdffabdd3f14e68,
+        type: 3}
+      propertyPath: placeName
+      value: ThirdFloor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd297994a6941d047bdffabdd3f14e68, type: 3}
@@ -2528,7 +2533,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761718700}
-  m_BodyType: 0
+  m_BodyType: 2
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -3266,89 +3271,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &1862293543
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1862293546}
-  - component: {fileID: 1862293545}
-  - component: {fileID: 1862293544}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &1862293544
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1862293543}
-  m_Enabled: 1
---- !u!20 &1862293545
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1862293543}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 1
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &1862293546
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1862293543}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1874526960
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3399,7 +3321,7 @@ PrefabInstance:
     - target: {fileID: 932870154592818695, guid: a433062033fb90a41b42296441a399cd,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 932870154592818695, guid: a433062033fb90a41b42296441a399cd,
         type: 3}
@@ -3425,6 +3347,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Size.x
       value: 0.29023552
+      objectReference: {fileID: 0}
+    - target: {fileID: 6011176326841462390, guid: a433062033fb90a41b42296441a399cd,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211553484191615892, guid: a433062033fb90a41b42296441a399cd,
+        type: 3}
+      propertyPath: newPlace
+      value: TowerRight_SecondFloor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211553484191615892, guid: a433062033fb90a41b42296441a399cd,
+        type: 3}
+      propertyPath: goToPlaceName
+      value: Second2Floor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a433062033fb90a41b42296441a399cd, type: 3}
