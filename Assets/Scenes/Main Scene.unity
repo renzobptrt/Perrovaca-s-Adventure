@@ -37027,12 +37027,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!1 &1720884448 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1074902331, guid: cad869b9aad2b7447ac30c36e77bc795,
-    type: 3}
-  m_PrefabInstance: {fileID: 5606828457843557293}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1880113571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38237,33 +38231,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6906961500815289758, guid: cad869b9aad2b7447ac30c36e77bc795,
-        type: 3}
-      propertyPath: hitPoint
-      value: 
-      objectReference: {fileID: 1720884448}
-    - target: {fileID: 6906961500815289758, guid: cad869b9aad2b7447ac30c36e77bc795,
-        type: 3}
-      propertyPath: bloodAnimation
-      value: 
-      objectReference: {fileID: 3314554725610124923, guid: 74d6c7e8c0be6b843b3759656154d7eb,
-        type: 3}
-    - target: {fileID: 6906961500815289758, guid: cad869b9aad2b7447ac30c36e77bc795,
-        type: 3}
-      propertyPath: damageNumber
-      value: 
-      objectReference: {fileID: 1667997943144575714, guid: 48101f075576443479a3a90a20aecf69,
-        type: 3}
-    - target: {fileID: 9007888826185865720, guid: cad869b9aad2b7447ac30c36e77bc795,
-        type: 3}
-      propertyPath: maxHealth
-      value: 80
-      objectReference: {fileID: 0}
-    - target: {fileID: 9007888826185865720, guid: cad869b9aad2b7447ac30c36e77bc795,
-        type: 3}
-      propertyPath: flashLength
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cad869b9aad2b7447ac30c36e77bc795, type: 3}

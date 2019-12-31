@@ -3,16 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterStats : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+{   
+
+    public int currentLevel;
+    public int currentExp;
+    public int[] expToLevelUp;
+
+    void Update()
+    {   
+        if(currentLevel >= expToLevelUp.Length){
+            return;
+        }
+
+        if(currentExp >= expToLevelUp[currentLevel]){
+            currentLevel++;
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public void AddExperience(int exp){
+        currentExp += exp;
     }
 }

@@ -13,6 +13,9 @@ public class HealthManager : MonoBehaviour
     //Used for flash player 
     private SpriteRenderer characterRenderer;
 
+    //Enemy Features
+    public int expWhenDefeated;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -23,6 +26,11 @@ public class HealthManager : MonoBehaviour
     void Update()
     {
         if(currentHealth <= 0 ){
+            if(gameObject.tag.Equals("Enemy")){
+                GameObject.Find("Player").
+                    GetComponent<CharacterStats>().
+                    AddExperience(expWhenDefeated);
+            }
             gameObject.SetActive(false);
         } 
 
