@@ -36,16 +36,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (!playerCreated)
-        {
-            playerCreated = true;
-            //Evita cargar el sistema
-            DontDestroyOnLoad(this.transform.gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        IsPlayerControllerCreated();
     }
 
     // Update is called once per frame
@@ -85,14 +76,14 @@ public class PlayerController : MonoBehaviour
             }
         }
         else
-        { 
+        {
             //Walking
             if (Mathf.Abs(Input.GetAxisRaw(horizontal)) > 0.5f ||
                 Mathf.Abs(Input.GetAxisRaw(vertical)) > 0.5f
-                ) 
-            {   
+                )
+            {
                 walking = true;
-                lastMovement = new Vector2(Input.GetAxisRaw(horizontal), 
+                lastMovement = new Vector2(Input.GetAxisRaw(horizontal),
                                             Input.GetAxisRaw(vertical));
                 playerRigidbody.velocity = lastMovement.normalized * speed * Time.deltaTime;
 
@@ -103,4 +94,19 @@ public class PlayerController : MonoBehaviour
             playerRigidbody.velocity = Vector2.zero;
         }
     }
+
+    void IsPlayerControllerCreated()
+    {
+        if (!playerCreated)
+        {
+            playerCreated = true;
+            //Evita cargar el sistema
+            DontDestroyOnLoad(this.transform.gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
 }
