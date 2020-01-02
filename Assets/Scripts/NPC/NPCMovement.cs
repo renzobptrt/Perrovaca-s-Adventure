@@ -22,12 +22,17 @@ public class NPCMovement : MonoBehaviour
     private int currentDirection;
     public Vector2 lastMovement;
 
+    //Dialog
+    public bool isTalking;
+
     //Bound
     public BoxCollider2D villagerZone;
 
     //Outside
     private Rigidbody2D npcRigidbody2D;
     private Animator npcAnimator;
+    private DialogManager manager;
+
     private const string horizontal = "Horizontal";
     private const string vertical = "Vertical";
     private const string walking = "Walking";
@@ -36,7 +41,8 @@ public class NPCMovement : MonoBehaviour
 
     //Load Components
     void Awake()
-    {
+    {   
+        manager = FindObjectOfType<DialogManager>();
         npcRigidbody2D = GetComponent<Rigidbody2D>();
         npcAnimator = GetComponent<Animator>();
     }
@@ -50,7 +56,17 @@ public class NPCMovement : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
+        if(!manager.dialogActive){
+            isTalking = false;  
+        }
+
+        if(isTalking){
+            StopWalking();
+            npcAnimator.SetBool(walking, false);
+            return;
+        }
+
         if (isWalking)
         {   
 
@@ -71,8 +87,8 @@ public class NPCMovement : MonoBehaviour
             {
                 StopWalking();
             }
-            //npcAnimator.SetFloat(lastHorizontal, lastMovement.x);
-           // npcAnimator.SetFloat(lastVertical, lastMovement.y);
+            npcAnimator.SetFloat(lastHorizontal, lastMovement.x);
+            npcAnimator.SetFloat(lastVertical, lastMovement.y);
         }
         else
         {
@@ -86,8 +102,8 @@ public class NPCMovement : MonoBehaviour
         npcAnimator.SetBool(walking, isWalking);
         npcAnimator.SetFloat(horizontal, npcRigidbody2D.velocity.x);
         npcAnimator.SetFloat(vertical, npcRigidbody2D.velocity.y);
-        npcAnimator.SetFloat(lastHorizontal, npcRigidbody2D.velocity.x);
-        npcAnimator.SetFloat(lastVertical, npcRigidbody2D.velocity.y);
+        //npcAnimator.SetFloat(lastHorizontal, npcRigidbody2D.velocity.x);
+        //npcAnimator.SetFloat(lastVertical, npcRigidbody2D.velocity.y);
 
     }
 

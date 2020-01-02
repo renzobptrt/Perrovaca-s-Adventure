@@ -7,14 +7,19 @@ public class PlayerController : MonoBehaviour
     //Caracteristicas
     public float speed = 4.0f;
     private float currentSpeed;
-    private bool walking = false;
-    public Vector2 lastMovement = Vector2.zero;
     public static bool playerCreated;
-    private bool attacking = false;
     public float attackTime;
     private float attackTimeCounter;
 
     //Comportamiento
+    private bool walking = false;
+    private bool attacking = false;
+    public bool playerTalking;
+    
+    //Animacion
+    public Vector2 lastMovement = Vector2.zero;
+
+    //Constantes
     private const string horizontal = "Horizontal";
     private const string vertical = "Vertical";
     private const string lastHorizontal = "LastHorizontal";
@@ -37,6 +42,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         IsPlayerControllerCreated();
+        playerTalking = false;
     }
 
     // Update is called once per frame
@@ -52,7 +58,12 @@ public class PlayerController : MonoBehaviour
     }
 
     void FixedUpdate()
-    {
+    {   
+        if(playerTalking){
+            playerRigidbody.velocity = Vector2.zero;
+            return;
+        }
+
         // s = v * t;
         walking = false;
 
