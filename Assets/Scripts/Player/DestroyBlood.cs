@@ -18,7 +18,6 @@ public class DestroyBlood : MonoBehaviour
     void Update(){
 
         duration -= Time.deltaTime;
-        Debug.Log("Duracion: " + duration);
         if(duration < 0){
             Destroy(gameObject);
         }

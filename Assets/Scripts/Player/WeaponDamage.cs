@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WeaponDamage : MonoBehaviour
-{   
-    private int damage;
+{
+    public int totalDamage;
 
     //Animacion de sangre
     public GameObject bloodAnimation;
@@ -13,12 +13,29 @@ public class WeaponDamage : MonoBehaviour
     [SerializeField]
     private GameObject damageNumber;
 
+    //Stats
+    private CharacterStats stats;
 
-    private void OnTriggerEnter2D(Collider2D collider){
-        if(collider.gameObject.tag.Equals("Enemy")){
-            damage = Random.Range(7,15);
+    void Start()
+    {
+        stats = GetComponentInParent<CharacterStats>();
+
+    }
+
+
+    private void OnTriggerEnter2D(Collider2D collider)
+    {
+        if (collider.gameObject.tag.Equals("Enemy"))
+        {
+            int damage = totalDamage;
+            if (stats != null)
+            {
+                damage += stats.strengthLevels[stats.currentLevel];
+            }
+            damage = Random.Range(damage - 8,damage);
+            
             collider.gameObject.GetComponent<HealthManager>().DamageCharacter(damage);
-            Instantiate(bloodAnimation, hitPoint.transform.position,hitPoint.transform.rotation);
+            Instantiate(bloodAnimation, hitPoint.transform.position, hitPoint.transform.rotation);
 
             var clone = (GameObject)Instantiate(
                 damageNumber,
