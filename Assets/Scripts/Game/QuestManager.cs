@@ -8,6 +8,12 @@ public class QuestManager : MonoBehaviour
     public QuestController[] quests;
     public bool[] questCompleted;
 
+    //Quest find
+    public string itemCollected;
+
+    //Quest kill
+    public string enemyKilled;
+
     //Dialog
     private DialogManager manager;
  

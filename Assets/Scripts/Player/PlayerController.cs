@@ -31,11 +31,13 @@ public class PlayerController : MonoBehaviour
     //Componentes externos
     private Animator animator;
     private Rigidbody2D playerRigidbody;
+    private SFXManager sfxManager;
 
     void Awake()
     {
         animator = GetComponent<Animator>();
         playerRigidbody = GetComponent<Rigidbody2D>();
+        sfxManager = FindObjectOfType<SFXManager>();
     }
 
     // Start is called before the first frame update
@@ -43,6 +45,7 @@ public class PlayerController : MonoBehaviour
     {
         IsPlayerControllerCreated();
         playerTalking = false;
+        lastMovement = new Vector2(-1,0);
     }
 
     // Update is called once per frame
@@ -74,6 +77,7 @@ public class PlayerController : MonoBehaviour
             attackTimeCounter = attackTime;
             playerRigidbody.velocity = Vector2.zero;
             animator.SetBool(attackingState, true);
+            sfxManager.playerAttack.Play();
         }
 
         //Attacking

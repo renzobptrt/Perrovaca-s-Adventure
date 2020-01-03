@@ -10,16 +10,24 @@ public class HealthManager : MonoBehaviour
     public bool flashActive;
     public float flashLength;
     private float flashCounter;
+
     //Used for flash player 
     private SpriteRenderer characterRenderer;
 
     //Enemy Features
     public int expWhenDefeated;
+    public string enemyName;
+    private QuestManager questManager;
+
+    //Outside
+    private SFXManager sfxManager;
 
     void Start()
     {
         currentHealth = maxHealth;
         characterRenderer = GetComponent<SpriteRenderer>();
+        questManager = FindObjectOfType<QuestManager>();
+        sfxManager = FindObjectOfType<SFXManager>();
     }
 
     // Update is called once per frame
@@ -27,9 +35,13 @@ public class HealthManager : MonoBehaviour
     {
         if(currentHealth <= 0 ){
             if(gameObject.tag.Equals("Enemy")){
+                questManager.enemyKilled = enemyName;
                 GameObject.Find("Player").
                     GetComponent<CharacterStats>().
                     AddExperience(expWhenDefeated);
+            }
+            if(gameObject.tag.Equals("Player")){
+                sfxManager.playerDead.Play();
             }
             gameObject.SetActive(false);
         } 
@@ -57,6 +69,9 @@ public class HealthManager : MonoBehaviour
         if(flashLength > 0){
             flashActive = true;
             flashCounter = flashLength;
+        }
+        if(gameObject.tag.Equals("Player")){
+            sfxManager.playerHurt.Play();
         }
     }
 

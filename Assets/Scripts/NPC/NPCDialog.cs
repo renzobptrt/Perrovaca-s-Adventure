@@ -20,6 +20,12 @@ public class NPCDialog : MonoBehaviour
         }
     }
 
+    void OnTriggerExit2D(Collider2D collision){
+        if(collision.gameObject.tag.Equals("Player")){
+            playerActiveTheZone = false;
+        }
+    }
+
     // Update is called once per frame
     void Update()
     {
