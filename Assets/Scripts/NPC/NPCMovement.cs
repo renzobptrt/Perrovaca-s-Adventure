@@ -26,7 +26,10 @@ public class NPCMovement : MonoBehaviour
     public bool isTalking;
 
     //Bound
-    public BoxCollider2D villagerZone;
+    public BoxCollider2D walkZone;
+    private Vector2 minWalkPoint;
+    private Vector2 maxWaltkPoint;
+    private bool hasWalkZone;
 
     //Outside
     private Rigidbody2D npcRigidbody2D;
@@ -41,7 +44,7 @@ public class NPCMovement : MonoBehaviour
 
     //Load Components
     void Awake()
-    {   
+    {
         manager = FindObjectOfType<DialogManager>();
         npcRigidbody2D = GetComponent<Rigidbody2D>();
         npcAnimator = GetComponent<Animator>();
@@ -52,51 +55,79 @@ public class NPCMovement : MonoBehaviour
     {
         walkingCurrentTime = walkingTime;
         stopWalkingCurrentTime = stopWalkingTime;
+        ChooseDirection();
+
+        if (walkZone != null)
+        {
+            minWalkPoint = walkZone.bounds.min;
+            maxWaltkPoint = walkZone.bounds.max;
+            hasWalkZone = true;
+        }
     }
 
     // Update is called once per frame
     void Update()
-    {   
-        if(!manager.dialogActive){
-            isTalking = false;  
+    {
+        if (!manager.dialogActive)
+        {
+            isTalking = false;
         }
 
-        if(isTalking){
+        if (isTalking)
+        {
             StopWalking();
             npcAnimator.SetBool(walking, false);
             return;
         }
 
         if (isWalking)
-        {   
-
-            if(villagerZone != null){
-                if( this.transform.position.x < villagerZone.bounds.min.x  ||
-                    this.transform.position.x > villagerZone.bounds.max.x  ||
-                    this.transform.position.y < villagerZone.bounds.min.y ||
-                    this.transform.position.y > villagerZone.bounds.max.y
-                    ){
-                        StopWalking();
-                    }
-            }
-
-            npcRigidbody2D.velocity = walkingDirection[currentDirection] * speed;
-            lastMovement = walkingDirection[currentDirection];
+        {
             walkingCurrentTime -= Time.deltaTime;
             if (walkingCurrentTime < 0)
             {
                 StopWalking();
             }
+            npcRigidbody2D.velocity = walkingDirection[currentDirection] * speed;
+
+            //Bounds
+            if (hasWalkZone && transform.position.x >= maxWaltkPoint.x ||
+               hasWalkZone && transform.position.x <= minWalkPoint.x ||
+               hasWalkZone && transform.position.y >= maxWaltkPoint.y ||
+               hasWalkZone && transform.position.y <= minWalkPoint.y
+               )
+            {
+                StopWalking();
+            }
+            lastMovement = walkingDirection[currentDirection];
             npcAnimator.SetFloat(lastHorizontal, lastMovement.x);
             npcAnimator.SetFloat(lastVertical, lastMovement.y);
         }
         else
         {
-            npcRigidbody2D.velocity = Vector2.zero;
             stopWalkingCurrentTime -= Time.deltaTime;
+            npcRigidbody2D.velocity = Vector2.zero;
             if (stopWalkingCurrentTime < 0)
             {
-                StartWalking();
+                if (hasWalkZone && transform.position.x >= maxWaltkPoint.x)
+                {
+                    ChooseRightDirection(0);
+                }
+                else if (hasWalkZone && transform.position.x <= minWalkPoint.x)
+                {
+                    ChooseRightDirection(2);
+                }
+                else if (hasWalkZone && transform.position.y >= maxWaltkPoint.y)
+                {
+                    ChooseRightDirection(1);
+                }
+                else if (hasWalkZone && transform.position.y <= minWalkPoint.y)
+                {
+                    ChooseRightDirection(3);
+                }
+                else
+                {
+                    ChooseDirection();
+                }
             }
         }
         npcAnimator.SetBool(walking, isWalking);
@@ -107,7 +138,7 @@ public class NPCMovement : MonoBehaviour
 
     }
 
-    void StartWalking()
+    void ChooseDirection()
     {
         isWalking = true;
         currentDirection = Random.Range(0, 4);
@@ -115,10 +146,22 @@ public class NPCMovement : MonoBehaviour
 
     }
 
+    void ChooseRightDirection(int except)
+    {
+        isWalking = true;
+        int randomNumr = except;
+        while (randomNumr == except)
+        {
+            randomNumr = Random.Range(0, 4);
+        }
+        currentDirection = randomNumr;
+        walkingCurrentTime = walkingTime;
+    }
+
     void StopWalking()
     {
         isWalking = false;
         stopWalkingCurrentTime = stopWalkingTime;
-        npcRigidbody2D.velocity = Vector2.zero;
+        //npcRigidbody2D.velocity = Vector2.zero;
     }
 }
