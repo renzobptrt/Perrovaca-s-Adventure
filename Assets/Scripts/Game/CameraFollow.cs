@@ -1,9 +1,9 @@
-﻿    using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
-{   
+{
 
     //Features
     [SerializeField]
@@ -29,29 +29,35 @@ public class CameraFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (followTarget == null){
+            followTarget = GameObject.FindWithTag("Player");
+        }
+
         targetPosition = new Vector3(followTarget.transform.position.x,
-                                    followTarget.transform.position.y,
-                                    this.transform.position.z);
+                        followTarget.transform.position.y,
+                        this.transform.position.z);
         //Mover de un punto a otro de forma suave, Linea Interpolada
         this.transform.position = Vector3.Lerp(this.transform.position,
                                                 targetPosition,
-                                                cameraSpeed*Time.deltaTime);
+                                                cameraSpeed * Time.deltaTime);
         float clampX = Mathf.Clamp(this.transform.position.x,
                                  minLimits.x + halfWidth,
                                  maxLimits.x - halfWidth);
         float clampy = Mathf.Clamp(this.transform.position.y,
                                  minLimits.y + halfHeight,
                                  maxLimits.y - halfHeight);
-        this.transform.position = new Vector3(clampX,clampy, this.transform.position.z);
+        this.transform.position = new Vector3(clampX, clampy, this.transform.position.z);
+
     }
 
-    public void ChangeLimits(BoxCollider2D newCameraLimits){
+    public void ChangeLimits(BoxCollider2D newCameraLimits)
+    {
         minLimits = newCameraLimits.bounds.min;
         maxLimits = newCameraLimits.bounds.max;
 
         theCamera = GetComponent<Camera>();
         //Camera Limits
         halfWidth = theCamera.orthographicSize;
-        halfHeight = halfWidth/ Screen.width * Screen.height;
+        halfHeight = halfWidth / Screen.width * Screen.height;
     }
 }

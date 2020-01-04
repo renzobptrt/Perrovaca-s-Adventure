@@ -118,10 +118,10 @@ public class PlayerController : MonoBehaviour
             //Evita cargar el sistema
             DontDestroyOnLoad(this.transform.gameObject);
         }
-        else
+        /*else
         {
             Destroy(gameObject);
-        }
+        }*/
     }
 
 }
