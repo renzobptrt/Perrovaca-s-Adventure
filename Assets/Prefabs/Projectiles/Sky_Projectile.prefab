@@ -12,7 +12,9 @@ GameObject:
   - component: {fileID: 8490677601528898620}
   - component: {fileID: 4506047681500432017}
   - component: {fileID: 6258502552648153866}
-  m_Layer: 0
+  - component: {fileID: 3638504130916116497}
+  - component: {fileID: 665633140033481387}
+  m_Layer: 10
   m_Name: Sky_Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,3 +123,29 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &3638504130916116497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1628676971247348383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a08b959457752b41bcbd20d8e4d0eff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  duration: 3
+--- !u!114 &665633140033481387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1628676971247348383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86166543370813a4f910929986f77691, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 10

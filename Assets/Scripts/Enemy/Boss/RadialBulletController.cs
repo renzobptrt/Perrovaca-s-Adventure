@@ -13,19 +13,20 @@ public class RadialBulletController : MonoBehaviour
     private Vector3 startPoint; //Pos
     private const float radius = 1F;
 
-    void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Space)){
-            startPoint = transform.position;
-            SpawnProjectiles(numberProjectiles);
-        }
+    void Start(){
+        InvokeRepeating("SpawnProjectiles",2.0f,3.0f);
     }
 
-    void SpawnProjectiles(int numberOfProjectiles){
-        float angleStep = 360 / numberOfProjectiles;
+    void Update()
+    {
+        startPoint = transform.position;
+    }
+
+    void SpawnProjectiles(){
+        float angleStep = 360 / numberProjectiles;
         float angle = 0f;
 
-        for(int i=0; i<numberOfProjectiles; i++){
+        for(int i=0; i<numberProjectiles; i++){
 
             //Direction bullet
             float projectileDirXPosition = startPoint.x - Mathf.Sin((angle * Mathf.PI)/180) * radius;
@@ -36,7 +37,6 @@ public class RadialBulletController : MonoBehaviour
 
             GameObject tempObj = Instantiate(projectilePrefab, startPoint, Quaternion.identity);
             tempObj.GetComponent<Rigidbody2D>().velocity = new Vector2(projectileMoveDirection.x, projectileMoveDirection.y);
-
             //Angle to shot projectile
             angle+= angleStep;
         }
