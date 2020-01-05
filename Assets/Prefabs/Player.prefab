@@ -188,6 +188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 911af6b2e11cdcd4ea368371a9515a30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  totalDamage: 15
   bloodAnimation: {fileID: 3314554725610124923, guid: 74d6c7e8c0be6b843b3759656154d7eb,
     type: 3}
   hitPoint: {fileID: 1074902331}
@@ -291,7 +292,6 @@ GameObject:
   - component: {fileID: 5606828457788391239}
   - component: {fileID: 5606828457788391238}
   - component: {fileID: 9007888826185865720}
-  - component: {fileID: 3497921733373932953}
   - component: {fileID: 5606828457843557296}
   m_Layer: 0
   m_Name: Player
@@ -406,8 +406,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 150
-  lastMovement: {x: 0, y: 0}
   attackTime: 0.5
+  playerTalking: 0
+  lastMovement: {x: 0, y: 0}
   nextPlaceName: 
 --- !u!95 &5606828457788391239
 Animator:
@@ -461,24 +462,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 861936beae6784c4697536fb4446493a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 80
-  currentHealth: 60
+  maxHealth: 200
+  currentHealth: 200
   flashActive: 0
   flashLength: 1
---- !u!114 &3497921733373932953
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5606828457788391240}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d63c0bad864214e43932118c30ed8627, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  routes:
-  - {fileID: 9165334989620594422, guid: a4c77fcc5a7632044bdedfcdd23c2488, type: 3}
+  expWhenDefeated: 0
+  enemyName: 
 --- !u!114 &5606828457843557296
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -494,3 +483,6 @@ MonoBehaviour:
   currentLevel: 0
   currentExp: 0
   expToLevelUp: 000000000a0000001400000046000000a00000005e01000020030000dc050000b80b000070170000
+  hpLevels: c8000000dc000000fa000000220100005e010000b801000030020000bc0200008403000014050000
+  strengthLevels: 00000000000000000100000001000000020000000200000003000000030000000400000006000000
+  defenseLevels: 00000000010000000100000001000000020000000200000003000000030000000400000005000000
