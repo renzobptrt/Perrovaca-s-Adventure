@@ -9,17 +9,25 @@ public class RadialBulletController : MonoBehaviour
     public float projectilesSpeed;
     public GameObject projectilePrefab;
 
+
     [Header("Private Settings")]
     private Vector3 startPoint; //Pos
     private const float radius = 1F;
+    private HealthManager healthManager;
 
     void Start(){
         InvokeRepeating("SpawnProjectiles",2.0f,3.0f);
+        healthManager = GetComponent<HealthManager>();
     }
 
     void Update()
     {
         startPoint = transform.position;
+
+        if(healthManager.currentHealth<=0){
+            Debug.Log("Terminando de disparar");
+            CancelInvoke("SpawnProjectiles");
+        }
     }
 
     void SpawnProjectiles(){
