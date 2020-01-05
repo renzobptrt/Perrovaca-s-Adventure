@@ -17,27 +17,32 @@ public class ActiveRouteOnBoat : MonoBehaviour
         goToBezierRoute = GetComponent<GoToBezierRoute>();
         startPosition = initialRoute.position;
         endPosition = finalRoute.position;
-        Debug.Log(endPosition);
     }
 
     void Update()
     {
-        if (Vector3.Distance(this.transform.position, finalRoute.position) < 0.5)
+        if (children != null)
         {
-            if (children != null)
+            children.GetComponent<PlayerController>().speed = 0.0f;
+            children.GetComponent<PlayerController>().SetWalking(false);
+
+            if (Vector3.Distance(this.transform.position, finalRoute.position) < 0.5)
             {
+                //if (children != null)
+                //{
                 children.transform.position = new Vector3(this.transform.position.x,
                                                         this.transform.position.y + 3.0f,
                                                         this.transform.position.z);
-
+                children.GetComponent<PlayerController>().speed = 150.0f;
+                children.GetComponent<PlayerController>().SetWalking(false);
                 children.transform.parent = null;
+                //}
+                Vector3 tempPosition = startPosition;
+                startPosition = endPosition;
+                endPosition = tempPosition;
+                goToBezierRoute.enabled = false;
+                this.enabled = false;
             }
-            Vector3 tempPosition = startPosition;
-            startPosition = endPosition;
-            endPosition = tempPosition;
-            goToBezierRoute.enabled = false;
-
-            this.enabled = false;
         }
     }
 

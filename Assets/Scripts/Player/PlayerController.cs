@@ -118,10 +118,13 @@ public class PlayerController : MonoBehaviour
             //Evita cargar el sistema
             DontDestroyOnLoad(this.transform.gameObject);
         }
-        /*else
+        else
         {
             Destroy(gameObject);
-        }*/
+        }
     }
 
+    public void SetWalking(bool newWalking){
+        this.walking = newWalking;
+    } 
 }

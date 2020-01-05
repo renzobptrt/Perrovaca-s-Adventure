@@ -41296,7 +41296,13 @@ PrefabInstance:
       propertyPath: totalDamage
       value: 15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5606828457788391238, guid: cad869b9aad2b7447ac30c36e77bc795,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3497921733373932953, guid: cad869b9aad2b7447ac30c36e77bc795, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cad869b9aad2b7447ac30c36e77bc795, type: 3}
 --- !u!1 &5606828457843557294 stripped
 GameObject:
