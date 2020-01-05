@@ -655,7 +655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxVolumeLevel: 1
-  currentVolumeLevel: 1
+  currentVolumeLevel: 0.1
 --- !u!1001 &158936730
 PrefabInstance:
   m_ObjectHideFlags: 0

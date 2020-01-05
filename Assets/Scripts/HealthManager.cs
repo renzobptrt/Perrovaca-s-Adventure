@@ -22,6 +22,7 @@ public class HealthManager : MonoBehaviour
     //Outside
     private SFXManager sfxManager;
 
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -34,7 +35,7 @@ public class HealthManager : MonoBehaviour
     void Update()
     {
         if(currentHealth <= 0 ){
-            if(gameObject.tag.Equals("Enemy")){
+            if(gameObject.tag.Equals("Enemy") || gameObject.tag.Equals("Final Enemy")){
                 questManager.enemyKilled = enemyName;
                 GameObject.Find("Player").
                     GetComponent<CharacterStats>().
