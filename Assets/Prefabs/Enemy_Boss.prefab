@@ -13,9 +13,12 @@ GameObject:
   - component: {fileID: 8160447657706678729}
   - component: {fileID: 8680692528062373887}
   - component: {fileID: 5398155627914344657}
+  - component: {fileID: 4627886212563794138}
+  - component: {fileID: 7208777657215911804}
+  - component: {fileID: 920832403561874730}
   m_Layer: 0
   m_Name: Enemy_Boss
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116,7 +119,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 45
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -171,3 +174,50 @@ PolygonCollider2D:
       - {x: 0.89408064, y: -0.53197813}
       - {x: 1.1846117, y: 0.5816922}
       - {x: 1.8659042, y: -0.38967466}
+--- !u!114 &4627886212563794138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8160447657706678728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 861936beae6784c4697536fb4446493a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 1000
+  currentHealth: 1000
+  flashActive: 1
+  flashLength: 0.5
+  expWhenDefeated: 800
+  enemyName: Final Boss
+--- !u!114 &7208777657215911804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8160447657706678728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c81d414856ff048a1229e9a67cbfd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 50
+--- !u!114 &920832403561874730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8160447657706678728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: facc76f478542c04ea79a7c60fa782e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemySpeed: 1
+  timeBetweenSteps: 2
+  timeToMakeStep: 1.5
+  directionToMakeStep: {x: 0, y: 0}

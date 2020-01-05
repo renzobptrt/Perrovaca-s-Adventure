@@ -5,7 +5,8 @@ using UnityEngine.UI;
 using TMPro;
 
 public class UIManager : MonoBehaviour
-{   
+{
+    [Header("Player Settings")]
     [SerializeField]
     private Slider playerHealthBar;
     [SerializeField]
@@ -13,29 +14,40 @@ public class UIManager : MonoBehaviour
     [SerializeField]
     private HealthManager playerHealthManager;
 
+    [Header("Enemy Settings")]
+    //Boss Health Features 
+    [SerializeField]
+    private Slider bossHealthBar;
+    [SerializeField]
+    private TextMeshProUGUI bossHealthText;
+    public HealthManager bossHealthManager;
+
+
+    [Header("UI Settings")]
     public static bool uiManagerCreated;
 
-    void Start(){
-        
+
+
+    void Start()
+    {
+
     }
+
     // Update is called once per frame
     void Update()
     {
-        //Por si subimos de nivel
+        //Player
         playerHealthBar.maxValue = playerHealthManager.maxHealth;
         playerHealthBar.value = playerHealthManager.currentHealth;
-
         playerHealthText.text = playerHealthBar.value.ToString() + "/" + playerHealthBar.maxValue.ToString();
 
-    }
 
-    /*void IsUIManagerCreated(){
-        if(!uiManagerCreated){
-            uiManagerCreated = true;
-            DontDestroyOnLoad(this.transform.gameObject);
+        //Boss
+        if (bossHealthManager != null)
+        {
+            bossHealthBar.maxValue = bossHealthManager.maxHealth;
+            bossHealthBar.value = bossHealthManager.currentHealth;
+            bossHealthText.text = bossHealthBar.value.ToString() + "/" + bossHealthBar.maxValue.ToString();
         }
-        else{
-            Destroy(gameObject);
-        }
-    }*/
+    }
 }

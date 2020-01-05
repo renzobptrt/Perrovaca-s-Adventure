@@ -17,6 +17,7 @@ public class EnemyController : MonoBehaviour
     private Animator enemyAnimator;
     private const string horizontal = "Horizontal";
     private const string vertical = "Vertical";
+    private const string walkingState = "Walking";
     
     //Combinaciones de movimiento
     public float timeBetweenSteps; //Tiempo entre movimiento
@@ -36,13 +37,12 @@ public class EnemyController : MonoBehaviour
         timeToMakeStepCounter = timeToMakeStep*Random.Range(0.5f,1.5f);
     }
 
-
     void Update()
     {
+
         if(isMoving){
             timeToMakeStepCounter -= Time.deltaTime;
             enemyRgb.velocity = directionToMakeStep;
-
             if(timeToMakeStepCounter<0){
                 isMoving = false;
                 timeBetweenStepsCounter = timeBetweenSteps;
@@ -61,7 +61,7 @@ public class EnemyController : MonoBehaviour
             }    
         }
         
-
+        enemyAnimator.SetBool(walkingState,isMoving);
         enemyAnimator.SetFloat(horizontal,directionToMakeStep.x);
         enemyAnimator.SetFloat(vertical, directionToMakeStep.y);
     }
