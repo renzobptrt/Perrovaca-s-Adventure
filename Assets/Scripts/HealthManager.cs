@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class HealthManager : MonoBehaviour
 {   
@@ -21,6 +22,7 @@ public class HealthManager : MonoBehaviour
 
     //Outside
     private SFXManager sfxManager;
+    private SceneSwitcher sceneSwitcher;
 
 
     void Start()
@@ -29,6 +31,7 @@ public class HealthManager : MonoBehaviour
         characterRenderer = GetComponent<SpriteRenderer>();
         questManager = FindObjectOfType<QuestManager>();
         sfxManager = FindObjectOfType<SFXManager>();
+        sceneSwitcher = FindObjectOfType<SceneSwitcher>();
     }
 
     // Update is called once per frame
@@ -43,6 +46,7 @@ public class HealthManager : MonoBehaviour
             }
             if(gameObject.tag.Equals("Player")){
                 sfxManager.playerDead.Play();
+                sceneSwitcher.GameOver();
             }
             gameObject.SetActive(false);
         } 
