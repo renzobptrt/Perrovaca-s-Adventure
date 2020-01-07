@@ -61,20 +61,3 @@ Corre en version de Unity 2019.3.0b6
   
  -Game: 
  
- <a href="https://imgflip.com/gif/3koq8i"><img src="https://i.imgflip.com/3koq8i.gif" title="made at imgflip.com"/></a>
-  > Start Game
-  
- <a href="https://imgflip.com/gif/3koqc7"><img src="https://i.imgflip.com/3koqc7.gif" title="made at imgflip.com"/></a>
-  > In Game
-  
- <a href="https://imgflip.com/gif/3koqhh"><img src="https://i.imgflip.com/3koqhh.gif" title="made at imgflip.com"/></a>
-  > Enemy damage
-  
- <a href="https://imgflip.com/gif/3koqiw"><img src="https://i.imgflip.com/3koqiw.gif" title="made at imgflip.com"/></a>
-  > Player dead
- 
- <a href="https://imgflip.com/gif/3koqva"><img src="https://i.imgflip.com/3koqva.gif" title="made at imgflip.com"/></a>
-  > Restart game
- 
- <a href="https://imgflip.com/gif/3koqxc"><img src="https://i.imgflip.com/3koqxc.gif" title="made at imgflip.com"/></a>
-  > End game
