@@ -23,6 +23,12 @@ public class CharacterStats : MonoBehaviour
         healthManager = GetComponent<HealthManager>();
     }
 
+    public void StartCharacterStats(){
+        currentLevel = 0;
+        currentExp = 0;
+        healthManager.currentHealth = 100;
+    }
+
     void Update()
     {   
         if(currentLevel >= expToLevelUp.Length){

@@ -5,18 +5,23 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     //Caracteristicas
+    [Header("Features Player")]
     public float speed = 4.0f;
     private float currentSpeed;
     public static bool playerCreated;
     public float attackTime;
     private float attackTimeCounter;
+    [SerializeField]
+    private Transform startPosition;
 
     //Comportamiento
+    [Header("Features Behaviour")]
     private bool walking = false;
     private bool attacking = false;
     public bool playerTalking;
     
     //Animacion
+    [Header("Animation")]
     public Vector2 lastMovement = Vector2.zero;
 
     //Constantes
@@ -29,23 +34,33 @@ public class PlayerController : MonoBehaviour
     public string nextPlaceName; //Lugar donde tiene que aparecer
 
     //Componentes externos
+    [Header("Outside Features")]
     private Animator animator;
     private Rigidbody2D playerRigidbody;
     private SFXManager sfxManager;
+    private CharacterStats characterStats;
 
     void Awake()
     {
         animator = GetComponent<Animator>();
         playerRigidbody = GetComponent<Rigidbody2D>();
         sfxManager = FindObjectOfType<SFXManager>();
+        characterStats = GetComponent<CharacterStats>();
     }
 
     // Start is called before the first frame update
     void Start()
     {
         IsPlayerControllerCreated();
+        StartPlayer();
+    }
+
+    public void StartPlayer(){
+        this.gameObject.SetActive(true);
+        this.transform.position = startPosition.position;
         playerTalking = false;
         lastMovement = new Vector2(-1,0);
+        characterStats.StartCharacterStats();
     }
 
     // Update is called once per frame
@@ -127,4 +142,6 @@ public class PlayerController : MonoBehaviour
     public void SetWalking(bool newWalking){
         this.walking = newWalking;
     } 
+
+
 }

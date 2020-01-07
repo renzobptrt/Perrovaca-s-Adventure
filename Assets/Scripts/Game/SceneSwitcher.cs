@@ -15,8 +15,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void Back(){
         guiInGame.SetActive(true);
-        player.SetActive(true);
-        player.GetComponent<HealthManager>().currentHealth = 220;
+        player.GetComponent<PlayerController>().StartPlayer();
         SceneManager.LoadScene("Main Scene");
 
     }
