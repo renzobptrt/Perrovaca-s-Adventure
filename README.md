@@ -49,15 +49,72 @@ Corre en version de Unity 2019.3.0b6
 ![Captura2](https://user-images.githubusercontent.com/42262419/71759060-9a1f1100-2e75-11ea-8391-4c8603fb4574.PNG)
   > Basic Enemy.
  
- ![Captura3](https://user-images.githubusercontent.com/42262419/71759064-a7d49680-2e75-11ea-9283-7d6a8bcbb4b0.PNG)
-   > Basic NPC.
+![Captura3](https://user-images.githubusercontent.com/42262419/71759064-a7d49680-2e75-11ea-9283-7d6a8bcbb4b0.PNG)
+  > Basic NPC.
    
- ![Captura14](https://user-images.githubusercontent.com/42262419/71759080-d18dbd80-2e75-11ea-8290-33a52ea6a743.PNG)
-   > Final Boss.
+![Captura14](https://user-images.githubusercontent.com/42262419/71759080-d18dbd80-2e75-11ea-8290-33a52ea6a743.PNG)
+  > Final Boss.
    
- ![Captura15](https://user-images.githubusercontent.com/42262419/71759093-fe41d500-2e75-11ea-95e2-8ca6b250526c.PNG)
-   > Princess Kimberlie.
-  
-  
- -Game: 
+![Captura15](https://user-images.githubusercontent.com/42262419/71759093-fe41d500-2e75-11ea-95e2-8ca6b250526c.PNG)
+  > Princess Kimberlie.
  
+- Game:
+ 
+ <a href="https://imgflip.com/gif/3lgf3b"><img src="https://i.imgflip.com/3lgf3b.gif" title="made at imgflip.com"/></a>
+  > Start Game
+  
+ <a href="https://imgflip.com/gif/3lggyr"><img src="https://i.imgflip.com/3lggyr.gif" title="made at imgflip.com"/></a>
+  > Main Scene To Second Scene
+   
+ <a href="https://imgflip.com/gif/3lgh7t"><img src="https://i.imgflip.com/3lgh7t.gif" title="made at imgflip.com"/></a>
+  > Second Scene To Third Scene
+   
+ <a href="https://imgflip.com/gif/3lghei"><img src="https://i.imgflip.com/3lghei.gif" title="made at imgflip.com"/></a>
+  > Enter Red House of Main Scene
+   
+ <a href="https://imgflip.com/gif/3lgi65"><img src="https://i.imgflip.com/3lgi65.gif" title="made at imgflip.com"/></a>
+  > Inside Red House of Main Scene
+   
+ <a href="https://imgflip.com/gif/3lgjhr"><img src="https://i.imgflip.com/3lgjhr.gif" title="made at imgflip.com"/></a>
+  > Go on boat to Final Castle
+   
+ <a href="https://imgflip.com/gif/3lghmp"><img src="https://i.imgflip.com/3lghmp.gif" title="made at imgflip.com"/></a>
+  > Inside Final Castle of Third Scene
+   
+- Mechanics:
+   
+ <a href="https://imgflip.com/gif/3lghut"><img src="https://i.imgflip.com/3lghut.gif" title="made at imgflip.com"/></a>
+  > Player movement
+   
+ <a href="https://imgflip.com/gif/3lghyc"><img src="https://i.imgflip.com/3lghyc.gif" title="made at imgflip.com"/></a>
+  > Player attack
+   
+ <a href="https://imgflip.com/gif/3lgibr"><img src="https://i.imgflip.com/3lgibr.gif" title="made at imgflip.com"/></a>
+  > Kill Basic Enemy
+   
+ <a href="https://imgflip.com/gif/3lgj6j"><img src="https://i.imgflip.com/3lgj6j.gif" title="made at imgflip.com"/></a>
+  > Player death
+
+- Quest: 
+   
+ <a href="https://imgflip.com/gif/3lgij9"><img src="https://i.imgflip.com/3lgij9.gif" title="made at imgflip.com"/></a>
+  > Talk to NPC
+   
+ <a href="https://imgflip.com/gif/3lgio0"><img src="https://i.imgflip.com/3lgio0.gif" title="made at imgflip.com"/></a>
+  > Simple Quest
+
+- Finish Game:
+
+ <a href="https://imgflip.com/gif/3lgisq"><img src="https://i.imgflip.com/3lgisq.gif" title="made at imgflip.com"/></a>
+  > Boss long distance attack
+   
+ <a href="https://imgflip.com/gif/3lgj1y"><img src="https://i.imgflip.com/3lgj1y.gif" title="made at imgflip.com"/></a>
+  > Fight against boss
+   
+ <a href="https://imgflip.com/gif/3lgjnh"><img src="https://i.imgflip.com/3lgjnh.gif" title="made at imgflip.com"/></a>
+  > Kill boss and save the princess
+   
+   
+
+   
+  
