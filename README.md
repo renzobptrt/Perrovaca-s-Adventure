@@ -56,7 +56,7 @@ Compiled in Unity 2019.3.0b6 version
   > Final Boss.
    
 ![Captura15](https://user-images.githubusercontent.com/42262419/71759093-fe41d500-2e75-11ea-95e2-8ca6b250526c.PNG)
-  > Princess Kimberlie.
+  > Princess.
  
 - Game:
  
