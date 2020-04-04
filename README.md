@@ -2,7 +2,7 @@
 Rogue-like rpg which has as main character a rabbit. 
 Compiled in Unity 2019.3.0b6 version
 
-## Characteristics
+## Features
 - Type: 2D
 - Point of view: Third person
 - Gender: RPG
